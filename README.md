@@ -34,6 +34,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 ## Autora
 
 Laís Simonelli
+
 Projeto desenvolvido como parte do desafio prático da DIO, seguindo as orientações das videoaulas da plataforma.
 
 ## Imagens do Projeto
